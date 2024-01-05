@@ -8,4 +8,4 @@ A jaffle is a toasted sandwich with crimped, sealed edges. Invented in Bondi in 
 
 ## Where can I find more information
 
-For more information and a more detailed version on how to install dbt and run this models on your own, please visit the official repo from dbt Labs [dbt Labs - jaffle_shop](https://https://github.com/dbt-labs/jaffle_shop/).
+For more information and a more detailed version on how to install dbt and run this models on your own, please visit the official repo from [dbt Labs - jaffle_shop](https://https://github.com/dbt-labs/jaffle_shop/).
